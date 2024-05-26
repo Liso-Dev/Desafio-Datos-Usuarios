@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&display=swap');
+
+.font {
+    font-family: "Ubuntu Sans Mono", monospace;
+}
+
+body {
+    background-image: url(../img/bg-image.jpg);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+}
